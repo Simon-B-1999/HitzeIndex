@@ -1,0 +1,7 @@
+{
+  "name": "HitzeIndex",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
